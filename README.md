@@ -12,7 +12,7 @@ ringtone will be chosen from the list
 
 Note: you to receive the call to hear a different ringtone for the next call
 
-Tip: add as many as ringtones to the list for better experience
+Tip: add as many as ringtones to the list for better experience \n
  when you press '+' button you will be provided options to 
  choose rintone/music present in your device  in the options
  use filemanger to choose the ringtone.....
