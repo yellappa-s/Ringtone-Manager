@@ -7,8 +7,8 @@ Working:
 if you want to listen different ringtone for every call you receive 
 install the app grant necessary permisions
 add your favorite ringtones to the list
-you will hear a random ringtone every time you receive a call
-ringtone will be chosen from the list
+you will hear a random ringtone chosen from the list
+everytime you receive a call
 
 Note: you to receive the call to hear a different ringtone for the next call
 
