@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ringtone Manager</string>
+    <string name="head_text">Welcome To Ringtone Manager</string>
+    <string name="body_text">I manage all your Ringtones</string>
+    <string name="some_text">click the button below to proceed</string>
+    <string name="next_button">Next</string>
+    <string name="title_activity_second">Ringtones</string>
+    <string name="checkbox">music</string>
+    <string name="play_button">PLAY</string>
+    <string name="play_text">PLAY</string>
+    <string name="save">SAVE</string>
+    <string name="bt_delete">REMOVE</string>
+
+</resources>
